@@ -1,0 +1,20 @@
+Python Commands
+
+conda list
+
+python 
+
+
+python -c "import sklearn; print(sklearn.__version__)"
+
+quit()
+
+ pip uninstall scikit-learn
+ pip install scikit-learn
+
+
+To Run Program
+-------------------------------------------------------------------
+
+python C:\Python\MachineLearningBeginners\sklearn_ml_example.py
+
